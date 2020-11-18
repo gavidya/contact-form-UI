@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["app.scss"],"sourcesContent":["@import 'button';\r\n@import 'form';\r\n\r\n.main{\r\n    height: 100vh;\r\n    .container{\r\n        position: relative;\r\n        top: 3%;\r\n\r\n        #row {\r\n            background-color: rgb(235, 235, 235);\r\n            padding: 10px;\r\n        }\r\n    }\r\n}"],"file":"app.css"}

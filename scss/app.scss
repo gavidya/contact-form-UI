@@ -1,0 +1,15 @@
+@import 'button';
+@import 'form';
+
+.main{
+    height: 100vh;
+    .container{
+        position: relative;
+        top: 3%;
+
+        #row {
+            background-color: rgb(235, 235, 235);
+            padding: 10px;
+        }
+    }
+}

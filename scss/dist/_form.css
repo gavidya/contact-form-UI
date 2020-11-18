@@ -1,0 +1,9 @@
+.main .container #row form .form__header {
+  padding: 10px 0 10px 0;
+}
+
+.main .container #row form input, .main .container #row form textarea {
+  border-radius: 0;
+}
+
+/*# sourceMappingURL=_form.css.map */
